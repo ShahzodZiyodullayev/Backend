@@ -35,9 +35,9 @@ if(d === 0){
 
 // 4. 3 ta butun sondan nechtasi musbat ekanligini aniqlang
 
-let A = 1; 
-let B = -1; 
-let C = 2;
+let A = 0; 
+let B = 0; 
+let C = 0;
 let soni = 0;
 if(A >= 0){
    soni += 1;
