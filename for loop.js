@@ -90,7 +90,7 @@
 
 // let n = 3;
 // let sum = 0;
-// for(let i = 0; i <= 5; i++){
+// for(let i = 0; i <= n * 2; i++){
 //    console.log(sum += Math.pow((n + i), 2));
 // }
 
@@ -104,7 +104,7 @@
 
 // 13
 
-// let n = 1.3;
+// let n = 1.4;
 // let sum = 0;
 // for(let i = 1.1; i <= n; i += 0.2){
 //    console.log("1",sum += i);

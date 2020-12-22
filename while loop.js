@@ -70,13 +70,13 @@
 
 // 6
 
-let n = 5;
-let sum = 1;
-let x = n;
-let i = 1;
-while(i < (n / 2)){
-   x = n - (2 * i - 1);
-   sum *= x;
-   i++;
-}
-console.log(sum)
+// let n = 5;
+// let sum = 1;
+// let x = n;
+// let i = 1;
+// while(i < ((n / 2) + 1)){
+//    x = n - (2 * i - 1);
+//    sum *= x;
+//    i++;
+// }
+// console.log(sum)
