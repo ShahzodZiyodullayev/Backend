@@ -28,7 +28,7 @@ let person = [
    {name: "Mia", age: 19, gender: "female", nation: "german"},
    {name: "Ariana", age: 40, gender: "female", nation: "italian"},
    {name: "Leon", age: 30, gender: "male", nation: "german"},
-   {name: "Marcello", age: 20, gender: "male", nation: "italian"},
+   {name: "Marcello", age: 20, gender: "male", nation: "italian"}
 ]
 
 let result = new Object();
